@@ -1,0 +1,15 @@
+C:\Users\metet\Desktop\C#\Hw5\Hw5\bin\Debug\net10.0\Hw5.exe
+C:\Users\metet\Desktop\C#\Hw5\Hw5\bin\Debug\net10.0\Hw5.deps.json
+C:\Users\metet\Desktop\C#\Hw5\Hw5\bin\Debug\net10.0\Hw5.runtimeconfig.json
+C:\Users\metet\Desktop\C#\Hw5\Hw5\bin\Debug\net10.0\Hw5.dll
+C:\Users\metet\Desktop\C#\Hw5\Hw5\bin\Debug\net10.0\Hw5.pdb
+C:\Users\metet\Desktop\C#\Hw5\Hw5\obj\Debug\net10.0\Hw5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\metet\Desktop\C#\Hw5\Hw5\obj\Debug\net10.0\Hw5.AssemblyInfoInputs.cache
+C:\Users\metet\Desktop\C#\Hw5\Hw5\obj\Debug\net10.0\Hw5.AssemblyInfo.cs
+C:\Users\metet\Desktop\C#\Hw5\Hw5\obj\Debug\net10.0\Hw5.csproj.CoreCompileInputs.cache
+C:\Users\metet\Desktop\C#\Hw5\Hw5\obj\Debug\net10.0\Hw5.dll
+C:\Users\metet\Desktop\C#\Hw5\Hw5\obj\Debug\net10.0\refint\Hw5.dll
+C:\Users\metet\Desktop\C#\Hw5\Hw5\obj\Debug\net10.0\Hw5.pdb
+C:\Users\metet\Desktop\C#\Hw5\Hw5\obj\Debug\net10.0\Hw5.genruntimeconfig.cache
+C:\Users\metet\Desktop\C#\Hw5\Hw5\obj\Debug\net10.0\ref\Hw5.dll
+C:\Users\metet\Desktop\C#\Hw5\Hw5\obj\Debug\net10.0\Hw5.csproj.Up2Date
